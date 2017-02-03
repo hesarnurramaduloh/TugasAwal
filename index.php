@@ -6,4 +6,6 @@ Echo "<br>";
 Echo ("NPM   : 14111218 ");
 Echo "<br>";
 Echo ("<<< SEKOLAH TINGGI TEKNOLOGI BANDUNG >>>");
+Echo ("<<<        Teknik Informatika        >>");
+Echo ("---------------------------------------");
 ?>
